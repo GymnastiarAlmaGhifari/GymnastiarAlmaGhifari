@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gymnastiaralmaghifari" alt="gymnastiaralmaghifari" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js, Nextauth, Typescript, Prisma,**
+- 🌱 I’m currently learning **Next.js, Nextauth, Typescript, Prisma, Laravel, Mysql**
 
-- 💬 Ask me about **react, Nextjs, Tailwind,**
+- 💬 Ask me about **React, Nextjs, Laravel, Tailwind, Typescript, Mysql,**
 
 - 📫 How to reach me **mynameisagim@gmail.com**
 
