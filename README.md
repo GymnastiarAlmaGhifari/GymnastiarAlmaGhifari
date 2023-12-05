@@ -1,4 +1,4 @@
-![logo](https://github.com/GymnastiarAlmaGhifari/GymnastiarAlmaGhifari/blob/main/Banner%20Github.png)
+![logo](https://github.com/GymnastiarAlmaGhifari/GymnastiarAlmaGhifari/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Gymnastiar Alma Ghifari</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
