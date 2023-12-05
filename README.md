@@ -1,6 +1,6 @@
 ![logo](https://github.com/GymnastiarAlmaGhifari/GymnastiarAlmaGhifari/blob/main/Banner%20Github.png)
 <h1 align="center">Hi 👋, I'm Gymnastiar Alma Ghifari</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gymnastiaralmaghifari&label=Profile%20views&color=0e75b6&style=flat" alt="gymnastiaralmaghifari" /> </p>
 
